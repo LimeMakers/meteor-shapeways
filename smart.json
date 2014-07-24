@@ -1,0 +1,9 @@
+{
+  "name": "shapeways",
+  "description": "Smart Package for accessing Shapeways API in Meteor",
+  "homepage": "",
+  "author": "Alexander Ottenhoff <alexander.ottenhoff@gmail.com>",
+  "version": "0.1.0",
+  "git": "",
+  "packages": {}
+}
