@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "shapeways": {
+      "version": "1.0.2",
+      "dependencies": {
+        "oauth": {
+          "version": "0.9.12"
+        }
+      }
+    }
+  }
+}

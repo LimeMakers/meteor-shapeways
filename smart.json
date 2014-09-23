@@ -4,6 +4,6 @@
   "homepage": "",
   "author": "Alexander Ottenhoff <alexander.ottenhoff@gmail.com>",
   "version": "0.1.0",
-  "git": "",
+  "git": "https://github.com/LimeMakers/meteor-shapeways.git",
   "packages": {}
 }
