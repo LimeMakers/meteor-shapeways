@@ -1,5 +1,8 @@
 Package.describe({
-	summary: "Smart Package for accessing Shapeways API in Meteor"
+	summary: "Smart Package for accessing Shapeways API in Meteor",
+	version: 0.1.0,
+	name: "limemakers:shapeways",
+	git: "https://github.com/LimeMakers/meteor-shapeways.git"
 });
 
 Npm.depends({
